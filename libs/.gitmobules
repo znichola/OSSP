@@ -1,0 +1,2 @@
+[submobules "raylib"]
+	shallow = true

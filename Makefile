@@ -1,6 +1,6 @@
 MAGIC_RAYLIB_FLAGS=-lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 
-CFLAGS=-Wall -Werror -Wextra -std=c11
+CFLAGS=-Wall -Werror -Wextra -std=c11 -g
 
 F=orbital.c main.c
 
